@@ -8,39 +8,22 @@
 # Personal Information
 basic_info:
 
-    # Your full name
-    first_name: Víctor
-    last_name: Maynou Gómez
+    First_name: Víctor
+    Last_name: Maynou Gómez
     
-    # Define yourself in 4-5 words
-    motto: Progress not perfection
+    Motto: Progress not perfection
     
-    # focus
-    focus: Full Stack Developer continuous improvement
+    Focus: Full Stack Developer continuous improvement
     
-    # You have 1 paragraph to make a great impression, summarize your career.
-    summary: |
-      Friendly, passionate about technology, responsible, and persevering.
-    # Your profile picture URL
-    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: https://media-exp1.licdn.com/dms/image/D4D35AQEXAPoO-B2sGg/profile-framedphoto-shrink_400_400/0/1627574996489?e=1642086000&v=beta&t=IXUxaFh3KyCcq2RsJKuz5VFNsGn7PwElrYjTn30Jd1g
+    Summary: Friendly, passionate about technology, responsible, and persevering.
 
     # Contact Information
     email: victormaynougomez@gmail.com #optional
     phone: (+34) 605610900 #optional
     website:   #optional
     linkedin: www.linkedin.com/in/victor-maynou #optional
-    
-    #
-    # ******** IMPORTANT *******
-    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
-    github: https://github.com/Baldonak
-    
-    twitter: '' #optional
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-
-    # languages you speak, levels inculde: Native, Professional
-    languages:
+   
+    Languages:
       - idiom: Spanish
         level: Native
 
@@ -50,25 +33,24 @@ basic_info:
       - idiom: English
         level: Level 1+ intermediate
 
-    # Interests or hobies
-    interests:
-      - item: Sports
+    # Interests and hobbies:
+    
+      - Sports
 
-      - item: Photography
+      - Photography
 
-      - item: Animals and plants 
+      - Animals and plants 
 
 # Your previous education
-education:
-    - degree: Full Stack Developer
-      university: 4Geeks Academy
-      # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: Jan. 2022 - Mar. 2022
-      details: |
+Education:
+    - Degree: Full Stack Developer
+      University: 4Geeks Academy
+      ![This is an image](https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg) 
+      Time: Jan. 2022 - Mar. 2022
+      Details: 
         Used languages: Python, JS and React.
 
-    - degree: Web App developer
+    - Degree: Web App developer
       university: Nascor formación
       # optional
       university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
