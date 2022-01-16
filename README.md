@@ -1,4 +1,4 @@
-[![Watch the video]](https://i.imgur.com/dLtT7u6.mp4)
+<img src="https://c.tenor.com/_HwQHDixHnMAAAAM/kitten-cat.gif" width="350" height="350"/>
 
 # Personal Information
 
