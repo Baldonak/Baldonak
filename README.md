@@ -1,3 +1,5 @@
+[![Watch the video]](https://i.imgur.com/dLtT7u6.mp4)
+
 # Personal Information
 
     First_name: Víctor
