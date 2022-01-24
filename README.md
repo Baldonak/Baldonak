@@ -2,8 +2,6 @@
 
 # Personal Information
 
-    First_name: Víctor
-    Last_name: Maynou Gómez
     
     Motto: Progress not perfection
     
@@ -12,10 +10,10 @@
     Summary: Friendly, passionate about technology, responsible, and persevering.
 
     # Contact Information
-    email: victormaynougomez@gmail.com #optional
+    email: programisto1011@gmail.com #optional
     phone: (+34) 605610900 #optional
     website:   #optional
-    linkedin: www.linkedin.com/in/victor-maynou #optional
+    linkedin: https://www.linkedin.com/in/programisto1011/ #optional
    
     Languages:
       - Idiom: Spanish
