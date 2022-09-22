@@ -1,13 +1,11 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif"
-     height="200" align="center" style="width: 100%" />
+     <img src="https://rishavanand.github.io/static/images/greetings.gif" height="200" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <div align="center">I'm Programisto, a full-Stack Developer 👨💻, with a background in structural engineering👷 and sales💰. Curious and proactive person who does not hide from new challenges 💪.</div>  
 
 - 🔭 I’m currently working on personal page for the presentation of my projects. 
-- 🌱 I’m currently learning WebAssembly 
+- 🌱 I’m currently learning WebAssembly.
 
 ## My Skill Set  
 <table>
@@ -35,6 +33,7 @@
     <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
     </div>
   </td>
+</tr></table>
 
 </br>
 
