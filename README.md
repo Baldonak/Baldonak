@@ -7,6 +7,7 @@ Skills: JS / React Flux / SQL ALchemy / Python / Flask / Figma
 - 🔭 I’m currently working on personal page for the presentation of my projects. 
 - 🌱 I’m currently learning WebAssembly 
 
+</br>
 
  <div class='container'>
   <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=programisto1011&show_icons=true&theme=blue-green" />
