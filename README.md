@@ -15,9 +15,11 @@ Skills: JS / React Flux / SQL ALchemy / Python / Flask / Figma
   <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programisto1011&theme=blue-green&langs_count=8&layout=compact" />
 </div>
 
+</br> 
 
-You can find me in: <a href="https://linkedin.com/in/victormaynou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victormaynou" height="30" width="40" /></a>
-</p>
+## Connect with me : 
+<a href="https://linkedin.com/in/victormaynou" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
 
 
