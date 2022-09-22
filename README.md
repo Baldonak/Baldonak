@@ -9,7 +9,7 @@
 
 
 ## My Skill Set  
-<table style="border: none;" align="center"><tr><td valign="top" width="40%">
+<table style="border: none" align="center"><tr><td valign="top" width="40%">
 
 
 
