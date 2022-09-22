@@ -10,9 +10,8 @@ Skills: JS / React Flux / SQL ALchemy / Python / Flask / Figma
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=programisto1011)
 
-<a href="https://github.com/programisto1011/convoychat">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programisto1011)](https://github.com/programisto1011/github-readme-stats)
-</a>
+
 
 
 
