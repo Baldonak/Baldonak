@@ -7,13 +7,12 @@ Skills: JS / React Flux / SQL ALchemy / Python / Flask / Figma
 - 🔭 I’m currently working on personal page for the presentation of my projects. 
 - 🌱 I’m currently learning WebAssembly 
 
- <div style="display: flex; align-items: center; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=programisto1011&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programisto1011&theme=radical&layout=compact" />
-</div>
-<div style="display: flex; align-items: center; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programisto1011&theme=radical&layout=compact" />
-</div>
+<a href="https://github.com/programisto1011/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aprogramisto1011&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/programisto1011/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programisto1011&repo=convoychat" />
+</a>
 
 
 
