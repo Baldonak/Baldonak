@@ -1,9 +1,3 @@
-<style>
-     td, th {
-        border: none!important;
-     }
-</style>
-
 <div align="center">
      <img src="https://rishavanand.github.io/static/images/greetings.gif" height="200" align="center" style="width: 100%" />
 </div>  
