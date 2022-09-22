@@ -1,7 +1,6 @@
 ### Hi there 👋, my nick is Programisto
 
-#### I'm a Full-Stack Developer working in Barcelona, Spain.
-Web programmer 👨💻, with a background in structural engineering👷 and sales💰. Curious and proactive person who does not hide from new challenges 💪.
+I'm a Full-Stack Developer 👨💻, with a background in structural engineering👷 and sales💰. Curious and proactive person who does not hide from new challenges 💪.
 
 Skills: JS / React Flux / SQL ALchemy / Python / Flask / Figma
 
