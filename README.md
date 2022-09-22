@@ -11,7 +11,7 @@
 
 
 ## My Skill Set  
-<table align="center"><tr ><td valign="top" width="40%">
+<table align="center"><tr ><td valign="top" width="50%">
 
 </br>
 
@@ -29,9 +29,7 @@
 
 </td>
      
-<td valign="top" width="20%"></td>
-     
-<td valign="top" width="40%">
+<td valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
