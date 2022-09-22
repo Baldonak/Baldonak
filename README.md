@@ -7,11 +7,9 @@
 - 🔭 I’m currently working on personal page for the presentation of my projects. 
 - 🌱 I’m currently learning WebAssembly.
 
-<br/>  
-
 
 ## My Skill Set  
-<table style="border: hidden" align="center"><tr><td valign="top" width="40%">
+<table style="border: none;" align="center"><tr><td valign="top" width="40%">
 
 
 
