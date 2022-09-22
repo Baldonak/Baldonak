@@ -8,8 +8,13 @@ Skills: JS / React Flux / SQL ALchemy / Python / Flask / Figma
 - 🌱 I’m currently learning WebAssembly 
 
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=programisto1011)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programisto1011)](https://github.com/programisto1011/github-readme-stats)
+ <div class='container'>
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=programisto1011&show_icons=true&theme=blue-green" />
+  &nbsp;
+  &nbsp;
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programisto1011&theme=blue-green&langs_count=8&layout=compact" />
+</div>
+
 
 
 
