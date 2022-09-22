@@ -4,12 +4,14 @@
 
 ### <div align="center">I'm Programisto, a full-Stack Developer 👨💻, with a background in structural engineering👷 and sales💰. Curious and proactive person who does not hide from new challenges 💪.</div>  
 
+</br>
+
 - 🔭 I’m currently working on personal page for the presentation of my projects. 
 - 🌱 I’m currently learning WebAssembly.
 
 
 ## My Skill Set  
-<table style="border-collapse:collapse" align="center"><tr><td valign="top" width="40%">
+<table style="border: none!important" align="center"><tr style="border: none!important"><td valign="top" width="40%">
 
 </br>
 
