@@ -1,3 +1,9 @@
+<style>
+     td, th {
+        border: none!important;
+     }
+</style>
+
 <div align="center">
      <img src="https://rishavanand.github.io/static/images/greetings.gif" height="200" align="center" style="width: 100%" />
 </div>  
@@ -11,7 +17,7 @@
 
 
 ## My Skill Set  
-<table style="border: none!important" align="center"><tr style="border: none!important"><td style="border: none!important" valign="top" width="40%">
+<table align="center"><tr ><td valign="top" width="40%">
 
 </br>
 
