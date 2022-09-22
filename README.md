@@ -1,34 +1,17 @@
-<img src="https://c.tenor.com/_HwQHDixHnMAAAAM/kitten-cat.gif" width="350" height="350"/>
+### Hi there 👋, my nick is Programisto
 
-# Personal Information
-    
-    Focus: Full Stack Developer continuous improvement
-    
-    Summary: Friendly, passionate about technology, responsible, and persevering.
+#### I'm a Full-Stack Developer working in Barcelona, Spain.
+Web programmer 👨💻, with a background in structural engineering👷 and sales💰. Curious and proactive person who does not hide from new challenges 💪.
 
-    # Contact Information
-    email: programisto1011@gmail.com #optional
-    phone: (+34) 605610900 #optional
-    website:   #optional
-    linkedin: https://www.linkedin.com/in/programisto1011/ #optional
-   
-    Languages:
-      - Idiom: Spanish
-        Level: Native
+Skills: JS / React Flux / SQL ALchemy / Python / Flask / Figma
 
-      - Idiom: Portuguese
-        Level: Level 2+ intermediate
+- 🔭 I’m currently working on personal page for the presentation of my projects. 
+- 🌱 I’m currently learning WebAssembly 
 
-      - Idiom: English
-        Level: Level 1+ intermediate
 
-    # Interests and hobbies:
-    
-      - Sports
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/programisto1011)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/victormaynou/)  
 
-      - Photography
 
-      - Animals and plants 
 
 
 
