@@ -7,9 +7,9 @@ Skills: JS / React Flux / SQL ALchemy / Python / Flask / Figma
 - 🔭 I’m currently working on personal page for the presentation of my projects. 
 - 🌱 I’m currently learning WebAssembly 
 
-<div>
+
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=programisto1011)
-</div>
+
 <a href="https://github.com/programisto1011/convoychat">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programisto1011)](https://github.com/programisto1011/github-readme-stats)
 </a>
