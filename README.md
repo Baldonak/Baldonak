@@ -9,7 +9,8 @@ Skills: JS / React Flux / SQL ALchemy / Python / Flask / Figma
 - 🌱 I’m currently learning WebAssembly 
 
 
-[<img src='[https://img.icons8.com/ios-glyphs/30/000000/github.png]' alt='github' height='40'>](https://github.com/programisto1011)  [<img src='[https://img.icons8.com/ios-glyphs/30/228BE6/linkedin-circled--v1.png]' alt='linkedin' height='40'>](https://www.linkedin.com/in/victormaynou/)  
+<a href="https://linkedin.com/in/victormaynou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victormaynou" height="30" width="40" /></a>
+</p>
 
 
 
