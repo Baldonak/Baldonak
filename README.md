@@ -8,10 +8,10 @@ Skills: JS / React Flux / SQL ALchemy / Python / Flask / Figma
 - 🌱 I’m currently learning WebAssembly 
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=programisto1011" />
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=programisto1011)
 </div>
 <a href="https://github.com/programisto1011/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programisto1011&repo=convoychat" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programisto1011)](https://github.com/programisto1011/github-readme-stats)
 </a>
 
 
