@@ -11,7 +11,7 @@
 ## My Skill Set  
 <table style="border-collapse:collapse" align="center"><tr><td valign="top" width="40%">
 
-
+</br>
 
 ### Frontend  
 <div align="center">  
@@ -31,8 +31,6 @@
      
 <td valign="top" width="40%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -45,8 +43,6 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
 
 ## GitHub Stats
 
