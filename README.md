@@ -2,7 +2,7 @@
      <img src="https://rishavanand.github.io/static/images/greetings.gif" height="200" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Programisto, a full-Stack Developer 👨💻, with a background in structural engineering👷 and sales💰. Curious and proactive person who does not hide from new challenges 💪.</div>  
+### <div align="center">I'm Programisto🤖, a full-Stack Developer 👨💻, with a background in structural engineering👷 and sales💰. Curious and proactive person who does not hide from new challenges 💪.</div>  
 
 </br>
 
